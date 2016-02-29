@@ -67,4 +67,4 @@
     'body': '${1:identifier} : while ${2:expression} loop\n\t$0\nend loop;'
     'others':
     'prefix': 'ot'
-    'body': '(others=>'0')$0'
+    'body': '(others=>\'0\')$0'
